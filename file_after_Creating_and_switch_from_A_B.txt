@@ -1,0 +1,2 @@
+This file was created after creating a Branch from A 
+and then switch to B 
